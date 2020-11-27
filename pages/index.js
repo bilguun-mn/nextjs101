@@ -3,7 +3,7 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-<h1>Hello Bilguun 1</h1>
+<h1>Hello Bilguun , Delgermaa, Enkhjargal</h1>
 
 
 
